@@ -18,4 +18,6 @@
 
 	http://pycoders-weekly-chinese.readthedocs.org/en/latest/issue6/processing-xml-in-python-with-element-tree.html
 
+5. Decorators I: Introduction to Python Decorators
 
+	http://www.artima.com/weblogs/viewpost.jsp?thread=240808
