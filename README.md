@@ -21,3 +21,7 @@
 5. Decorators I: Introduction to Python Decorators
 
 	http://www.artima.com/weblogs/viewpost.jsp?thread=240808
+
+6. two-scoops-django-best-practices-1.5.pdf 
+
+	http://pan.baidu.com/s/1o6Jh2II
