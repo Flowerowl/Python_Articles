@@ -25,3 +25,7 @@
 6. two-scoops-django-best-practices-1.5.pdf 
 
 	http://pan.baidu.com/s/1o6Jh2II
+
+7. Python Decorators II: Decorator Arguments
+
+	http://www.artima.com/weblogs/viewpost.jsp?thread=240845
