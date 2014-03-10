@@ -29,3 +29,7 @@
 7. Python Decorators II: Decorator Arguments
 
 	http://www.artima.com/weblogs/viewpost.jsp?thread=240845
+
+8. The Performance Impact of Using dict() Instead of {} in CPython 2.7
+
+	http://doughellmann.com/2012/11/12/the-performance-impact-of-using-dict-instead-of-in-cpython-2-7-2.html
