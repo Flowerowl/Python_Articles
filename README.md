@@ -37,3 +37,7 @@
 9. What does “mro()” do in Python?
 
 	http://stackoverflow.com/questions/2010692/what-does-mro-do-in-python
+
+10. Python中的__init__和__new__
+
+	http://www.zlovezl.cn/articles/__init__-and__new__-in-python/
