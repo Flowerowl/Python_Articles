@@ -41,3 +41,7 @@
 10. Python中的__init__和__new__
 
 	http://www.zlovezl.cn/articles/__init__-and__new__-in-python/
+
+11. Things to Know About Python Super [1 of 3]
+
+	http://www.artima.com/weblogs/viewpost.jsp?thread=236275
