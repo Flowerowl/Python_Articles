@@ -49,3 +49,7 @@
 12. Improve Your Python: Metaclasses and Dynamic Classes With Type
 
 	 http://www.jeffknupp.com/blog/2013/12/28/improve-your-python-metaclasses-and-dynamic-classes-with-type/
+
+13. A Primer on Python Metaclasses
+
+	http://jakevdp.github.io/blog/2012/12/01/a-primer-on-python-metaclasses/
