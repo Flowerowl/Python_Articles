@@ -45,3 +45,7 @@
 11. Things to Know About Python Super [1 of 3]
 
 	http://www.artima.com/weblogs/viewpost.jsp?thread=236275
+
+12. Improve Your Python: Metaclasses and Dynamic Classes With Type
+
+	 http://www.jeffknupp.com/blog/2013/12/28/improve-your-python-metaclasses-and-dynamic-classes-with-type/
