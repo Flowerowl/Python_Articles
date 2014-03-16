@@ -53,3 +53,7 @@
 13. A Primer on Python Metaclasses
 
 	http://jakevdp.github.io/blog/2012/12/01/a-primer-on-python-metaclasses/
+
+14. Improve Your Python: Understanding Unit Testing
+
+	https://www.jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing/
