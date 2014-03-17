@@ -57,3 +57,7 @@
 14. Improve Your Python: Understanding Unit Testing
 
 	https://www.jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing/
+
+15. A Guide to Python's Magic Methods
+
+	http://www.rafekettler.com/magicmethods.html
