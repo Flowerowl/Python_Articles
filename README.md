@@ -61,3 +61,7 @@
 15. A Guide to Python's Magic Methods
 
 	http://www.rafekettler.com/magicmethods.html
+
+16. Drastically Improve Your Python: Understanding Python's Execution Model 
+
+	http://www.jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/
