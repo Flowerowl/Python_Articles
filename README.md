@@ -65,3 +65,7 @@
 16. Drastically Improve Your Python: Understanding Python's Execution Model 
 
 	http://www.jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/
+
+17. Improving your code with modern idioms
+
+	http://python3porting.com/improving.html
