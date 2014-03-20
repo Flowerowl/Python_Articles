@@ -73,3 +73,7 @@
 18. Fn.py: enjoy FP in Python
 
 	https://github.com/kachayev/fn.py#fnpy-enjoy-fp-in-python
+
+19. Functional Programming HOWTO
+
+	http://docs.python.org/2/howto/functional.html
