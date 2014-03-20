@@ -69,3 +69,7 @@
 17. Improving your code with modern idioms
 
 	http://python3porting.com/improving.html
+
+18. Fn.py: enjoy FP in Python
+
+	https://github.com/kachayev/fn.py#fnpy-enjoy-fp-in-python
