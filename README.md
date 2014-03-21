@@ -77,3 +77,7 @@
 19. Functional Programming HOWTO
 
 	http://docs.python.org/2/howto/functional.html
+
+20. 写给Python初学者的设计模式入门
+	
+	http://www.pythoner.cn/home/blog/slug1design-patterns-beginners/
