@@ -81,3 +81,7 @@
 20. 写给Python初学者的设计模式入门
 	
 	http://www.pythoner.cn/home/blog/slug1design-patterns-beginners/
+
+21. Python修饰器的函数式编程
+
+	http://coolshell.cn/articles/11265.html
