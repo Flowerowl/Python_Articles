@@ -85,3 +85,7 @@
 21. Python修饰器的函数式编程
 
 	http://coolshell.cn/articles/11265.html
+
+22. Python程序员的进化
+
+	http://coolshell.cn/articles/2082.html
