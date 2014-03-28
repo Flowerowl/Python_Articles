@@ -89,3 +89,7 @@
 22. Python程序员的进化
 
 	http://coolshell.cn/articles/2082.html
+
+23. Python Web Server Gateway Interface v1.0
+
+	http://legacy.python.org/dev/peps/pep-0333/
