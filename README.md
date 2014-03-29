@@ -93,3 +93,7 @@
 23. Python Web Server Gateway Interface v1.0
 
 	http://legacy.python.org/dev/peps/pep-0333/
+
+24. Python: copying a list the right way
+
+	http://henry.precheur.org/python/copy_list
