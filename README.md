@@ -97,3 +97,7 @@
 24. Python: copying a list the right way
 
 	http://henry.precheur.org/python/copy_list
+
+25. How should I understand the output of dis.dis?
+
+	http://stackoverflow.com/questions/12673074/how-should-i-understand-the-output-of-dis-dis#
