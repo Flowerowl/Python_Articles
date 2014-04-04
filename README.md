@@ -101,3 +101,7 @@
 25. How should I understand the output of dis.dis?
 
 	http://stackoverflow.com/questions/12673074/how-should-i-understand-the-output-of-dis-dis#
+
+26. 为什么要阅读Tornado的源码？
+
+	http://www.nowamagic.net/academy/detail/13321002
