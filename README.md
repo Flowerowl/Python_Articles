@@ -109,3 +109,7 @@
 27. Hidden features of Python
 
 	http://stackoverflow.com/questions/101268/hidden-features-of-python
+
+28. Coroutines via Enhanced Generators
+
+	http://legacy.python.org/dev/peps/pep-0342/
