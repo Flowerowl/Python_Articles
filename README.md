@@ -105,3 +105,7 @@
 26. 为什么要阅读Tornado的源码？
 
 	http://www.nowamagic.net/academy/detail/13321002
+
+27. Hidden features of Python
+
+	http://stackoverflow.com/questions/101268/hidden-features-of-python
