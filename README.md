@@ -113,3 +113,7 @@
 28. Coroutines via Enhanced Generators
 
 	http://legacy.python.org/dev/peps/pep-0342/
+
+29. A Few of My Favorite (Python) Things
+
+	http://www.slideshare.net/mpirnat/a-few-of-my-favorite-python-things
