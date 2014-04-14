@@ -117,3 +117,7 @@
 29. A Few of My Favorite (Python) Things
 
 	http://www.slideshare.net/mpirnat/a-few-of-my-favorite-python-things
+
+30. Be careful with exec and eval in Python
+
+	https://lucumr.pocoo.org/2011/2/1/exec-in-python/
