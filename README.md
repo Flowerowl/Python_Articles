@@ -121,3 +121,7 @@
 30. Be careful with exec and eval in Python
 
 	https://lucumr.pocoo.org/2011/2/1/exec-in-python/
+
+31. Top 10 Mistakes that Python Programmers Make
+
+	http://www.toptal.com/python/top-10-mistakes-that-python-programmers-make
