@@ -125,3 +125,7 @@
 31. Top 10 Mistakes that Python Programmers Make
 
 	http://www.toptal.com/python/top-10-mistakes-that-python-programmers-make
+
+32. Web Scraping at Scale: Python vs Go
+
+	http://blog.dataweave.in/post/81760696759/web-scraping-at-scale-python-vs-go
