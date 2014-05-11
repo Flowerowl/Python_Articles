@@ -129,3 +129,7 @@
 32. Web Scraping at Scale: Python vs Go
 
 	http://blog.dataweave.in/post/81760696759/web-scraping-at-scale-python-vs-go
+
+33. Python Descriptors, Part 1 of 2
+
+	http://martyalchin.com/2007/nov/23/python-descriptors-part-1-of-2/
