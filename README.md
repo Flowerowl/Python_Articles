@@ -133,3 +133,7 @@
 33. Python Descriptors, Part 1 of 2
 
 	http://martyalchin.com/2007/nov/23/python-descriptors-part-1-of-2/
+
+34. Python descriptor
+
+	http://hbprotoss.github.io/posts/python-descriptor.html
