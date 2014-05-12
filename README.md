@@ -137,3 +137,7 @@
 34. Python descriptor
 
 	http://hbprotoss.github.io/posts/python-descriptor.html
+
+35. Python Interview Question and Answers
+
+	http://ilian.i-n-i.org/python-interview-question-and-answers/
