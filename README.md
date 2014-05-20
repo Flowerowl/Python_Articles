@@ -141,3 +141,7 @@
 35. Python Interview Question and Answers
 
 	http://ilian.i-n-i.org/python-interview-question-and-answers/
+
+36. Things you didn't know about Python
+
+	https://speakerdeck.com/mitsuhiko/didntknow
