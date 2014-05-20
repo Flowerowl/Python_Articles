@@ -145,3 +145,7 @@
 36. Things you didn't know about Python
 
 	https://speakerdeck.com/mitsuhiko/didntknow
+
+37. 深刻理解Python中的元类(metaclass)
+
+	http://blog.jobbole.com/21351/
