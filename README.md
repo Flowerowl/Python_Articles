@@ -161,3 +161,7 @@
 40. Descriptor HowTo Guide
 
 	https://docs.python.org/2/howto/descriptor.html
+
+41. Python之美[从菜鸟到高手]--玩转描述符和属性
+
+	http://blog.csdn.net/yueguanghaidao/article/details/10291147
