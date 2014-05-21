@@ -149,3 +149,15 @@
 37. 深刻理解Python中的元类(metaclass)
 
 	http://blog.jobbole.com/21351/
+
+38. A Curious Course on Coroutines and Concurrency
+
+	http://www.dabeaz.com/coroutines/Coroutines.pdf
+
+39. TALKS AND TUTORIALS
+
+	http://www.dabeaz.com/talks.html
+
+40. Descriptor HowTo Guide
+
+	https://docs.python.org/2/howto/descriptor.html
