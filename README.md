@@ -165,3 +165,7 @@
 41. Python之美[从菜鸟到高手]--玩转描述符和属性
 
 	http://blog.csdn.net/yueguanghaidao/article/details/10291147
+
+42. Python与开源GIS
+
+	http://lab.osgeo.cn/tutorial/pygis
