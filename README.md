@@ -169,3 +169,7 @@
 42. Python与开源GIS
 
 	http://lab.osgeo.cn/tutorial/pygis
+
+43. 10 awesome features of Python that you can't use because you refuse to upgrade to Python 3
+
+	http://asmeurer.github.io/python3-presentation/slides.html#1
