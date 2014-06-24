@@ -173,3 +173,7 @@
 43. 10 awesome features of Python that you can't use because you refuse to upgrade to Python 3
 
 	http://asmeurer.github.io/python3-presentation/slides.html#1
+
+44. python-internals-adding-a-new-statement-to-python
+
+	http://eli.thegreenplace.net/2010/06/30/python-internals-adding-a-new-statement-to-python/
