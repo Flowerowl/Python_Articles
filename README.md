@@ -177,3 +177,7 @@
 44. python-internals-adding-a-new-statement-to-python
 
 	http://eli.thegreenplace.net/2010/06/30/python-internals-adding-a-new-statement-to-python/
+
+45. Can't set attributes of object class
+
+	http://stackoverflow.com/questions/1529002/cant-set-attributes-of-object-class/1529099#1529099
