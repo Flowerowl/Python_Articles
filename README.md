@@ -181,3 +181,7 @@
 45. Can't set attributes of object class
 
 	http://stackoverflow.com/questions/1529002/cant-set-attributes-of-object-class/1529099#1529099
+
+46. Python Socket Programming
+
+	http://pengyi.info/post/35/python-socket-programming/
