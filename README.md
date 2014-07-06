@@ -185,3 +185,7 @@
 46. Python Socket Programming
 
 	http://pengyi.info/post/35/python-socket-programming/
+
+47. python奇技淫巧
+
+	http://www.pengyi.info/post/92/python-skill/
