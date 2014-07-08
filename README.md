@@ -189,3 +189,7 @@
 47. python奇技淫巧
 
 	http://www.pengyi.info/post/92/python-skill/
+
+48. Python 2 Tutorial
+
+	http://www.python-course.eu/course.php
