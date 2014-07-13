@@ -193,3 +193,7 @@
 48. Python 2 Tutorial
 
 	http://www.python-course.eu/course.php
+
+49. Python免费书54本
+
+	http://python.memect.com/?tag=book
