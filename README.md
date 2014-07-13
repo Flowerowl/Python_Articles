@@ -197,3 +197,8 @@
 49. Python免费书54本
 
 	http://python.memect.com/?tag=book
+
+50. An introduction to parallel programming
+using Python's multiprocessing module
+
+	http://sebastianraschka.com/Articles/2014_multiprocessing_intro.html
