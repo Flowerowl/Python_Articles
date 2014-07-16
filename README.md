@@ -206,3 +206,7 @@ using Python's multiprocessing module
 51. Asynchronous API for Python
 
 	http://stevedower.id.au/blog/async-api-for-python/
+
+52. Python算法设计篇
+
+	http://hujiaweibujidao.github.io/python/
