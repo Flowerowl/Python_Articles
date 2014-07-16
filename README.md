@@ -202,3 +202,7 @@
 using Python's multiprocessing module
 
 	http://sebastianraschka.com/Articles/2014_multiprocessing_intro.html
+
+51. Asynchronous API for Python
+
+	http://stevedower.id.au/blog/async-api-for-python/
