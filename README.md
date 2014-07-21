@@ -210,3 +210,7 @@ using Python's multiprocessing module
 52. Python算法设计篇
 
 	http://hujiaweibujidao.github.io/python/
+
+53. Python3-presentation 
+
+	http://asmeurer.github.io/python3-presentation/slides.html
