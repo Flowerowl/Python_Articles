@@ -214,3 +214,7 @@ using Python's multiprocessing module
 53. Python3-presentation 
 
 	http://asmeurer.github.io/python3-presentation/slides.html
+
+54. The Python I Would Like To See
+
+	http://lucumr.pocoo.org/2014/8/16/the-python-i-would-like-to-see/
