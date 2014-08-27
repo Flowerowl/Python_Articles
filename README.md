@@ -218,3 +218,7 @@ using Python's multiprocessing module
 54. The Python I Would Like To See
 
 	http://lucumr.pocoo.org/2014/8/16/the-python-i-would-like-to-see/
+
+55. Python for Fun
+
+	http://www.openbookproject.net/py4fun/
