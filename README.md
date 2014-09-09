@@ -222,3 +222,7 @@ using Python's multiprocessing module
 55. Python for Fun
 
 	http://www.openbookproject.net/py4fun/
+
+56. 简明Python魔法 - 1
+
+	http://wizmann.tk/python-magic-1.html
