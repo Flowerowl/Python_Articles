@@ -226,3 +226,7 @@ using Python's multiprocessing module
 56. 简明Python魔法 - 1
 
 	http://wizmann.tk/python-magic-1.html
+
+57. What is a metaclass in Python?
+
+	http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python 
