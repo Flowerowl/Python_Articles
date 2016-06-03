@@ -230,3 +230,11 @@ using Python's multiprocessing module
 57. What is a metaclass in Python?
 
 	http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python 
+
+58. Understanding Asynchronous IO With Python 3.4's Asyncio And Node.js
+
+    http://sahandsaba.com/understanding-asyncio-node-js-python-3-4.html
+
+59. Combinatorial Generation Using Coroutines With Examples in Python
+
+    http://sahandsaba.com/combinatorial-generation-using-coroutines-in-python.html
